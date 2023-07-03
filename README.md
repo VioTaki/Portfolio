@@ -15,6 +15,5 @@
 | Навыки | Стек |
 | - | - |
 | предобработка данных, исследовательский анализ данных | python: <br> pandas, numpy, datetime; <br> SQL |
-| визуализация данных | python: <br> matplotlib, seaborn, plotly |
+| визуализация данных | python: <br> matplotlib, seaborn, plotly; <br>Tableau<br>Microsoft PowerPoint|
 | описательная статистика, проверка статистических гипотез, <br> использование поправки при множественном тестирвоании, <br> А/В-тестирование| python:  <br>scipy |
- 
