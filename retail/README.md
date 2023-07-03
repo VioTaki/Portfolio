@@ -62,5 +62,5 @@
     * pandas, numpy, datetime, math - изучение и предобработка;
     * matplotlib, seaborn - визуализация;
     * scipy - проверка гипотез;
-* Tableu;
+* Tableau;
 * Microsoft PowerPoint.
